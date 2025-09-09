@@ -1,0 +1,10 @@
+[
+  {
+    "nome": "Abdomen na polia",
+    "series": 1
+  },
+  {
+    "nome": "Crossover cima baixo",
+    "series": 2
+  }
+]

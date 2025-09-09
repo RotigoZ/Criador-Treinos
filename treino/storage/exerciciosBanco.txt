@@ -1,0 +1,71 @@
+{
+  "peito": [
+    {
+      "nome": "Supino Reto"
+    },
+    {
+      "nome": "Supino Inclinado"
+    },
+    {
+      "nome": "Supino Reto com Halteres"
+    },
+    {
+      "nome": "Supino Inclinado com Halteres"
+    },
+    {
+      "nome": "Crossover cima baixo"
+    }
+  ],
+  "costas": [
+    {
+      "nome": "Puxada Frente"
+    },
+    {
+      "nome": "Remada Curvada"
+    }
+  ],
+  "biceps": [
+    {
+      "nome": "Rosca Direta"
+    },
+    {
+      "nome": "Rosca Alternada"
+    }
+  ],
+  "triceps": [
+    {
+      "nome": "Tríceps Testa"
+    },
+    {
+      "nome": "Tríceps Pulley"
+    },
+    {
+      "nome": "Tríceps carter"
+    }
+  ],
+  "ombro": [
+    {
+      "nome": "Desenvolvimento halteres"
+    },
+    {
+      "nome": "Desenvolvimento smith"
+    }
+  ],
+  "antebraco": [
+    {
+      "nome": "Flexão punho polia"
+    }
+  ],
+  "quadriceps": [],
+  "posteriorCoxa": null,
+  "panturrilha": [
+    {
+      "nome": "Panturrilha sentado"
+    }
+  ],
+  "abdomen": [
+    {
+      "nome": "Abdomen na polia"
+    }
+  ]
+}
